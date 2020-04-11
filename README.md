@@ -4,7 +4,7 @@ AWSPlayerBurst automatically enables t2/t3.unlimited mode for AWS EC2 hosted ser
 
 AWSPlayerBurst can drastically decrease the cost of some servers which sometimes sit idle.
 
-This plugin **requires **you to be using Amazon Web Services' EC2 for hosting.
+This plugin **requires** you to be using Amazon Web Services' EC2 for hosting.
 
 # Setup
 
