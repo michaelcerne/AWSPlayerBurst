@@ -1,0 +1,8 @@
+name: AWSPlayerBurst
+version: ${project.version}
+main: com.michaelcerne.awsplayerburst.AwsPlayerBurst
+description: Automatically enable t2/t3.unlimited when a player is connected.
+website: https://github.com/michaelcerne/AWSPlayerBurst
+api-version: 1.15
+authors: [Michael Cerne]
+load: STARTUP
